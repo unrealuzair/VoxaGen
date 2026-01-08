@@ -1,0 +1,7 @@
+{
+  "name": "Voxagen",
+  "description": "A high-definition text-to-speech engine powered by Google's latest generative audio models, featuring customizable voices and real-time visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
